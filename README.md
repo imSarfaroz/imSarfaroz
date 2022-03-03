@@ -18,21 +18,15 @@
 
 ### I am currently available and looking for projects and part-time positions 💻
 
+----- 
 
-<h1 align="center"><u>My Github Stats</u></h1>
-<p align="center">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imSarfaroz&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imSarfaroz&theme=holi-theme">
-</p>
-  
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/imSarfaroz/count.svg" />
-</p>
+<p align="center" width="150px"> Github Stats </p>
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p> -->
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=imsarfaroz&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=imsarfaroz&theme=chartreuse-dark"></p>
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/imsarfaroz/count.svg" alt="visitor badge"/></p>
+
 
 <!--
 **imSarfaroz/imSarfaroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
