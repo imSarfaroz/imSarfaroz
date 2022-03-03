@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hi there, I am Sarfaroz 👋
+
+##### I am Software Engineer student at American University of Central Asia and former student at Bard College.
+
+### My area of interests include:
+##### * *IOS* & *Android* Development mobile📱
+##### * Back-End Development 🛠
+##### * Data Science 🔬
+
+### I am currently available and looking for projects and part-time positions 💻
+
+##### 📱 Connect with me:
+
+
+
+
 
 <!--
 **imSarfaroz/imSarfaroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
