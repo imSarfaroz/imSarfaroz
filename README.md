@@ -37,7 +37,7 @@
 ----
 
 <p align="center" width="150px"> Github Stats </p>
-<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p> -->
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imSarfaroz&layout=compact&hide=TSQL&theme=chartreuse-dark"></p> -->
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=imsarfaroz&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=imsarfaroz&theme=chartreuse-dark"></p>
 <p align="center"><b>Visitor's Count</b></p>
