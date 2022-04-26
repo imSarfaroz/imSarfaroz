@@ -16,7 +16,7 @@
 * Back-End Development 🛠
 * Data Science 🔬
     
-### 🛠 Language and Tools:
+### 🛠 Languages and Tools:
 <!-- <img align="left" alt="Android" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
 <img align="left" alt="Android Studio" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" />
 <img align="left" alt="Gradle" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
