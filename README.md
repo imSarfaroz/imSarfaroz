@@ -12,7 +12,7 @@
 ### I am Software Engineer student at American University of Central Asia and former student at Bard College. Currently available and looking for projects and part-time positions 💻
  
 #### My area of interests include:
-* *IOS* & *Android* Development mobile📱
+* *IOS* & *Android* Mobile Development📱
 * Back-End Development 🛠
 * Data Science 🔬
     
