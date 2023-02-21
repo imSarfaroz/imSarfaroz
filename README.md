@@ -9,14 +9,14 @@
         <a href="https://t.me/imsarfaroz"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
     </div align=center>
 
-### I am Software Engineer student at American University of Central Asia and former student at Bard College. Currently available and looking for projects and part-time positions 💻
+<!-- ### I am Software Engineer student at American University of Central Asia and former student at Bard College. Currently available and looking for projects and part-time positions 💻
  
 #### My area of interests include:
 * *IOS* & *Android* Mobile Development📱
 * Back-End Development 🛠
-* Data Science 🔬
+* Data Science 🔬 -->
     
-### 🛠 Languages and Tools:
+<!-- ### 🛠 Languages and Tools: -->
 <!-- <img align="left" alt="Android" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
 <img align="left" alt="Android Studio" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" />
 <img align="left" alt="Gradle" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
