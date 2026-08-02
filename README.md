@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Sarfaroz (Saff) Yunusov 👋</h1>
-<h3 align="center">Software Engineer · Data Engineer · Research Engineer in Toronto, Canada 🇨🇦</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarfarozyunusov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
