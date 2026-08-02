@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Sarfaroz (Saff) Yunusov 👋</h1>
-<h3 align="center">Software Engineer · MSc Computer Science · ML/NLP Research</h3>
-
-<p align="center">
-  I build data pipelines, cloud systems, and ML-driven applications — with a research
-  background in NLP and a few conference papers to show for it.
-</p>
+<h3 align="center">Software Engineer · Data Engineer · Research Engineer in Toronto, Canada 🇨🇦</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarfarozyunusov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,17 +7,16 @@
   <a href="https://scholar.google.ca/citations?user=NkElH88AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 </p>
 
----
 
-### 🧭 About Me
+## 🧭 About Me
 
-Currently a **Software Engineer at TELUS Health**, working on enterprise API integrations and data pipelines. Before that, I spent two years as an **ML/NLP Research Assistant at Brock University**, where I trained and evaluated LLMs and co-authored papers presented at ACL and EMNLP. Based in Toronto, Canada 🇨🇦.
+I'm a Software Engineer with a background in building enterprise-grade systems, from bidirectional API integrations and large-scale data pipelines to full-stack applications and automation. I hold an **MSc in Computer Science** and currently work at **TELUS**, where I build and design data pipelines, automation solutions, and manage cloud environment that process millions of records monthly and keep enterprise platforms in sync. I care about clean architecture, reliable data flow, and building tools that save people time.
 
----
 
-### 🛠️ Skills & Tech Stack
+## 🛠️ Skills & Tech Stack
 
 **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -32,7 +26,21 @@ Currently a **Software Engineer at TELUS Health**, working on enterprise API int
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
+**Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
 **Data, Cloud & DataOps**
+
 <p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
@@ -44,6 +52,7 @@ Currently a **Software Engineer at TELUS Health**, working on enterprise API int
 </p>
 
 **ML / NLP**
+
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -54,6 +63,7 @@ Currently a **Software Engineer at TELUS Health**, working on enterprise API int
 </p>
 
 **Dev Tools & Workflow**
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -62,25 +72,16 @@ Currently a **Software Engineer at TELUS Health**, working on enterprise API int
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
----
+<br>
 
-### 📄 Publications
+## 🏭 Industry Knowledge
 
-- **Subtle Biases Need Subtler Measures** — Dual metrics for representative and affinity bias in LLMs · *ACL 2024*
-- **MirrorStories** — Personalized narrative generation with LLMs · *EMNLP 2024*
-- **Personality Matters** — User traits predict LLM preferences in multi-turn tasks · *EMNLP 2025*
+- **Healthcare** — Enterprise API integrations across EMRs and health data platforms; data pipelines and automated reporting workflows handling millions of records monthly at TELUS Health, with an emphasis on data integrity, audit readiness, and system uptime.
+- **Higher Education** — Research infrastructure and data pipelines at Brock University for ML/NLP experimentation; full-stack applications supporting research studies, plus experience evaluating early-stage academic innovations for commercialization potential.
+- **Telecommunication & IT** — Full-stack mobile development and backend NLP pipeline work for chatbot and platform applications, including API integration, database schema design, and CI/CD-driven deployment workflows.
 
-📚 Full list on [Google Scholar](https://scholar.google.ca/citations?user=NkElH88AAAAJ&hl=en)
-
----
-
-### 📊 GitHub Stats
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsarfaroz&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsarfaroz&hide_border=true" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=imsarfaroz&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile views" />
 </p>
-
----
-
-<p align="center"><i>Always open to interesting problems in data, ML, and systems — reach out anytime.</i></p>
